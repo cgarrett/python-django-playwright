@@ -1,2 +1,2 @@
-Django==3.2.5
-playwright==1.12.1
+Django~=4.1
+playwright==1.24.1
